@@ -13,7 +13,7 @@ See for more information: https://ukdataservice.ac.uk/find-data/access-condition
 
 To run the code, you need to change the working directory ("cd") and the directories for data source in each do file. The outputs will then be saved to the specified working directory.
 
-To replicate the whole analysis, you can run the Master Do file (Beduk2020_Miss_DX_Masterfile.do) (after changing relevant directory names), which will call each do file and execute them in order.
+To replicate the whole analysis, you can run the Master Do file (Beduk2020_Miss_DX_Master.do) (after changing relevant directory names), which will call each do file and execute them in order.
 
 To run the analysis, you will need STATA 15 (or more recent versions).
 
