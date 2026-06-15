@@ -17,4 +17,4 @@ To replicate the whole analysis, you can run the Master Do file (Beduk2020_Miss_
 
 To run the analysis, you will need STATA 15 (or more recent versions).
 
-If you'd have any questions, do not hesitate contact me.
+If you'd have any questions, do not hesitate to contact me.
