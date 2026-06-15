@@ -7,7 +7,7 @@ The analysis uses data from British Household Panel Survey (BHPS) Waves 9-18, St
 
 University of Essex, Institute for Social and Economic Research. (2021). British Household Panel Survey: Waves 1-18, 1991-2009. [data collection]. 8th Edition. UK Data Service. SN: 5151, DOI: http://doi.org/10.5255/UKDA-SN-5151-2
 
-These data are safeguarded. Safeguarded datasets can be downloaded by registering and accepting our End User Licence (PDF). Some safeguarded data may have additional conditions attached.
+These data are safeguarded, which can be accessed by registering to UK Data Archive and accepting End User Licence. Some safeguarded data may have additional conditions attached.
 
 See for more information: https://ukdataservice.ac.uk/find-data/access-conditions/
 
